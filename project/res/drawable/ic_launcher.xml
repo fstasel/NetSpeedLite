@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark Slate Circle Background -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,4A50,50 0 1,1 54,104A50,50 0 1,1 54,4Z" />
+    <!-- Outer Accent Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:pathData="M54,8A46,46 0 1,1 54,100A46,46 0 1,1 54,8Z" />
+    <!-- Down Arrow (Cyan) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,28L44,28L44,58L52,50L57,55L40,72L23,55L28,50L36,58Z" />
+    <!-- Up Arrow (Emerald) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M72,80L64,80L64,50L56,58L51,53L68,36L85,53L80,58L72,50Z" />
+</vector>

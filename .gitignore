@@ -1,0 +1,18 @@
+# Build & temporary outputs
+build/
+dist/
+.gradle/
+
+# Local SDK, sysroot & tool binaries
+android-sdk/
+sysroot/
+tools/
+
+# Signing keystores & signatures
+keystore/
+*.jks
+*.keystore
+*.idsig
+
+# Local GitHub CLI config
+.gh/
